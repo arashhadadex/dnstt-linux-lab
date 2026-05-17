@@ -1,0 +1,20 @@
+# Private keys
+*.key
+*.pem
+
+# Environment files
+.env
+
+# Logs
+*.log
+logs/
+
+# macOS
+.DS_Store
+
+# Build binaries
+dnstt-server
+dnstt-client
+
+# Go
+bin/
