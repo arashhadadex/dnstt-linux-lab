@@ -7,7 +7,9 @@ This repository documents my experience deploying and experimenting with the dns
 
 Original project website:
 https://www.bamsoftware.com/git/dnstt.git
+
 https://www.inet.no/dante/
+
 https://dnstt.network/
 
 GitHub:
@@ -22,6 +24,7 @@ Technologies we use:
 - Go
 
 You can also visit my website where i explained the step-by-step with details:
+
 https://datatodeploy.com/dns-tunneling-with-dnstt/
 
 ## How dnstt works?
