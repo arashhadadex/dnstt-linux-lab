@@ -1,5 +1,5 @@
 # Building a DNS Tunnel on Linux: Installing dnstt and danted
-When traditional VPNs failed, I turned to DNS tunneling with dnstt. This article covers repository inspection, DNS delegation, Dante SOCKS5 proxy setup, and debugging a working tunnel.
+When traditional VPNs failed, I turned to DNS tunneling with dnstt. This README.md file covers repository inspection, DNS delegation, Dante SOCKS5 proxy setup, and debugging a working tunnel.
 
 ## Original Project
 
