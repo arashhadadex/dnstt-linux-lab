@@ -23,9 +23,10 @@ Technologies we use:
 - systemd
 - Go
 
-You can also visit my website where i explained the step-by-step with details:
-
+## You can also visit my website where i explained the step-by-step with details:
+```
 https://datatodeploy.com/dns-tunneling-with-dnstt/
+```
 
 ## How dnstt works?
 The client (Your device) encodes traffic into DNS packets. The server receives thos DNS packets, decodes them, and forwards the traffic thorugh a SOCKS proxy. DNS becomes a transport layer. Slow, but still work in restricted environments.
